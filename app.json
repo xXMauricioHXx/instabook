@@ -1,0 +1,11 @@
+{
+  "name": "instabook",
+  "displayName": "instabook",
+  "expo": {
+    "name": "instabook",
+    "slug": "instabook",
+    "version": "1.0.0",
+    "platforms": ["ios", "android", "web"],
+    "assetBundlePatterns": ["**/*"]
+  }
+}
